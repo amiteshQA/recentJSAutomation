@@ -1,0 +1,26 @@
+{
+  "name": "dealer-team-automaation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^3.2.0",
+    "jasminewd2": "^2.2.0",
+    "log4js": "^3.0.6",
+    "log4js-protractor-appender": "^1.1.2",
+    "mail-listener2": "^0.3.1",
+    "protractor": "^5.4.1",
+    "selenium-webdriver": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor-beautiful-reporter": "^1.2.5"
+  }
+}
